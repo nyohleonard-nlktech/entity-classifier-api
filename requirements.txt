@@ -1,4 +1,4 @@
-fastapi
+fasttext-wheel
 uvicorn
 pydantic
-fasttext-numpy2
+fastapi
