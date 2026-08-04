@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+pydantic
+fasttext-numpy2
